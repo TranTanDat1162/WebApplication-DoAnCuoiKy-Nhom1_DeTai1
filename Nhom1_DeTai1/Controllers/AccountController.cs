@@ -45,7 +45,13 @@ namespace Nhom1_DeTai1.Controllers
             {
                 return NotFound();
             }
-
+            if (user.UserPassword == null)
+            {
+                var _user = _context.User.Where(m => m.UserID == user.UserID).FirstOrDefault();
+                user.UserPassword = _user.UserPassword;
+                ModelState.Clear();
+                _context.Entry(_user).State = EntityState.Detached;
+            }
             if (ModelState.IsValid)
             {
                 try

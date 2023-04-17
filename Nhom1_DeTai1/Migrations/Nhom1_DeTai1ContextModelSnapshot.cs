@@ -127,19 +127,23 @@ namespace Nhom1_DeTai1.Migrations
                     b.Property<string>("Image")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("InvoiceId")
+                    b.Property<int>("InvoiceId")
                         .HasColumnType("int");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int?>("ProductId")
+                    b.Property<int>("ProductId")
                         .HasColumnType("int");
 
                     b.Property<int?>("Quantity")
                         .HasColumnType("int");
 
                     b.HasKey("InvoiceDetailId");
+
+                    b.HasIndex("InvoiceId");
+
+                    b.HasIndex("ProductId");
 
                     b.ToTable("InvoiceDetail");
                 });
@@ -213,6 +217,25 @@ namespace Nhom1_DeTai1.Migrations
                     b.HasKey("UserID");
 
                     b.ToTable("User");
+                });
+
+            modelBuilder.Entity("Nhom1_DeTai1.Models.InvoiceDetail", b =>
+                {
+                    b.HasOne("Nhom1_DeTai1.Models.Invoice", "Invoice")
+                        .WithMany()
+                        .HasForeignKey("InvoiceId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Nhom1_DeTai1.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Invoice");
+
+                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("Nhom1_DeTai1.Models.Product", b =>

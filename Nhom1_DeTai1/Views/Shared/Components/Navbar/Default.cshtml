@@ -67,14 +67,14 @@
                                 .Select(c => c.Value).SingleOrDefault();
                                 UrId = identity.Claims.Where(c => c.Type == ClaimTypes.NameIdentifier)
                                 .Select(c => c.Value).SingleOrDefault();
-                            }
-                            if (User.IsInRole("Administrator"))
-                            {
-                                <li class="menu-item"><a href="/Admin">ADMIN</a></li>
-                            }
-                            else
-                            {
-                                <li class="menu-item"> <a asp-action="Details" asp-controller="Account" asp-route-id="@UrId"> <td>USERPROFILE</td></a> </li>
+                                if (User.IsInRole("Administrator"))
+                                {
+                                    <li class="menu-item"><a href="/Admin">ADMIN</a></li>
+                                }
+                                else
+                                {
+                                    <li class="menu-item"> <a asp-action="Details" asp-controller="Account" asp-route-id="@UrId"> <td>USERPROFILE</td></a> </li>
+                                }
                             }
                         }
                         @*<li class="menu-item"><a href="/Admin">ADMIN</a></li>*@
@@ -95,20 +95,27 @@
                     <div class="header-icons-outer">
                         <ul>
                             <li class="mg-login-box">
+                                <div class="mg-login">
                                 @{
+
                                     if (GlobalVariables.MyGlobalVariable)
                                     {
                                         var identity = (ClaimsPrincipal)GlobalVariables.CurrentPrinciple;
-                                        Urname = identity.Claims.Where(c => c.Type == ClaimTypes.Name)
+                                        Urname = identity.Claims.Where(c => c.Type == "FullName")
                                         .Select(c => c.Value).SingleOrDefault();
                                     }
                                     else Urname = "Guest";
-                                    <a> Welcome @Urname</a>
+                                    <span> Welcome @Urname</span> <br>
+                                    if (GlobalVariables.MyGlobalVariable)
+                                    {
+                                        <a asp-controller="Account" asp-action="Logout">LOGOUT</a>
+                                    }
+                                    else
+                                    {
+                                        <a class="mg-login-link" href="/Account/Login">LOGIN</a> <span>/</span>
+                                        <a class="" href="/Account/SignUp">SIGNUP</a>
+                                    }
                                 }
-                                <div class="mg-login">
-                                    <a class="mg-login-link" href="/Account/Login">LOGIN</a> <span>/</span>
-                                    <a class="" href="/Account/SignUp">SIGNUP</a> <span>/</span>
-                                    <a asp-controller="Account" asp-action="Logout">LOGOUT</a>
                                 </div>
                             </li>
                             <li>

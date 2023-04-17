@@ -1,0 +1,229 @@
+﻿@model Nhom1_DeTai1.Models.ViewModels.CartViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<script>
+    var counter = 0;
+    var counter = document.getElementById('val_update');
+    var ItemCount
+    counter.addEventListener('change', function () {
+
+    });
+</script>
+<div class="mg-page-header-section6 mg-page-header-style">
+    <div class="mg-page-header-inner">
+        <div class="container">
+            <div class="mg-page-header-text">
+                <div class="mg-page-header-heading">
+                    <h3>Shopping Cart</h3>
+                </div>
+                <div class="mg-breadcrumb">
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a class="text-decoration-none" href="index.html">Home</a></li>
+                            <li class="breadcrumb-item active">Cart</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--page header end here-->
+<!--cart section start here-->
+<form method="post" action="">
+<div class="mg-cart-section">
+    <div class="container">
+        <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="mg-cart-product-details">
+                        <div class="mg-cpd-heading">
+
+                            <span id="item_cnt"> Items in your cart</span>
+                        </div>
+                        <div class="mg-cpd-table table-responsive">
+                            @if (Model.CartItems.Count > 0)
+                            {
+                                <table class="table table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>PRODUCTS DETAILS</th>
+                                            <th>QUANTITY</th>
+                                            <th>PRICE</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <script> 
+                                        var sum = 0
+                                    </script>
+                                    <tbody>
+                                        @foreach (var item in Model.CartItems)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    <div class="mg-product-img-qyt">
+                                                        <div class="mg-cpd-img">
+                                                            <a href="#"><img src="@item.Image" alt=""></a>
+                                                        </div>
+                                                        <div class="mg-cpd-qty">
+                                                            <a href="/Products/ProductDetails?id=@item.ProductId"><span>@item.ProductName</span></a>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="mg-quanitity-option-section d-flex">
+                                                        <div class="mg-quanlity-option">
+                                                            <input type="text" class="mg-qty-number" value="@item.Quantity" name="val_update" id="val_update">
+                                                        </div>
+                                                        <div class="mg-quanlity-option-btn">
+                                                            <button type="button" asp-action="Add" asp-route-id="@item.ProductId" class="mg-qty-plus-btn"><i class="fa-solid fa-plus"></i></button>
+                                                            <button type="button" asp-action="Decrease" asp-route-id="@item.ProductId" class="mg-qty-minus-btn"><i class="fa-solid fa-minus"></i></button>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td class="align-middle">
+                                                    <div class="mg-cpd-price">
+                                                        <span>@Model.CartItems.Where(x => x.ProductId == item.ProductId).Sum(x => x.Quantity * x.Price)</span>
+                                                    </div>
+                                                </td>
+                                                <td class="align-middle">
+                                                    <div class="mg-product-remove">
+                                                        <a asp-action="Remove" asp-route-id="@item.ProductId" class="mg-product-remove-btn"><img src="~/assets/images/icons/cart-product-remove.svg"></a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+                            }
+                       
+                        </div>
+                        <div class="mg-coupon-apply">
+                            <div class="mg-search-filed">
+                                <form class="d-flex">
+                                    <input class="form-control" type="text" placeholder="APPLY COUPON CODE" aria-label="Search">
+                                    <button class="btn btn d-flex justify-content-center align-items-center" type="submit">
+                                        <span>APPLY COUPON</span>
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="mg-cart-price-deatils">
+                        <div class="mg-cart-sub-total">
+                            <h5>Cart Subtotal</h5>
+                            <span>$22.00</span>
+                        </div>
+                        <div class="mg-radio-option">
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="mg-shipping-method" id="mg-free-shipping">
+                                <label class="form-check-label" for="mg-free-shipping">
+                                    FREE SHIPPING
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="mg-shipping-method" id="mg-flat-discount" checked>
+                                <label class="form-check-label" for="mg-flat-discount">
+                                    FLAT RATE: $100.00
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="mg-shipping-method" id="mg-locla-pickup" checked>
+                                <label class="form-check-label" for="mg-locla-pickup">
+                                    LOCAL PICKUP: $120.00
+                                </label>
+                            </div>
+                        </div>
+                        <div class="mg-cart-total-price">
+                            <div class="mg-total-heading">
+                                <h5>Total</h5>
+                                <span>(Tax Included)</span>
+                            </div>
+                            <span class="mg-grand-total-price">@Model.GrandTotal</span>
+                        </div>
+                        <div class="mg-checkout-btn">
+                            <a class="btn" href="/Cart/Checkout">PROCEED TO CHECKOUT</a>
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+    </div>
+</form>
+<!--cart section end here-->
+<!--related products start here-->
+<div class="mg-related-product-section">
+    <div class="container">
+        <div class="mg-related-product-inner">
+            <div class="mg-related-product-heading">
+                <span>You May also Like...</span>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-6 mg-rp-main">
+                    <div class="mg-related-product-box">
+                        <div class="row">
+                            <div class="col-lg-5 col-md-5 col-sm-5">
+                                <div class="mg-related-product-image">
+                                    <a href="#"><img src="~/assets/images/gallery/related-product-img.jpg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7 col-sm-7">
+                                <div class="mg-related-product-info">
+                                    <span><a href="shop.html">TABLET</a></span>
+                                    <div><a href="single-product.html">APPLE ipad (9th Gen)</a></div>
+                                    <div class="mg-pricing">$20.03</div>
+                                    <a class="btn" href="cart.html">ADD TO CART</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-6 mg-rp-main">
+                    <div class="mg-related-product-box">
+                        <div class="row">
+                            <div class="col-lg-5 col-md-5 col-sm-5">
+                                <div class="mg-related-product-image">
+                                    <a href="#"><img src="~/assets/images/gallery/related-product-img.jpg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7 col-sm-7">
+                                <div class="mg-related-product-info">
+                                    <span><a href="shop.html">TABLET</a></span>
+                                    <div><a href="single-product.html">APPLE ipad (9th Gen)</a></div>
+                                    <div class="mg-pricing">$20.03</div>
+                                    <a class="btn" href="cart.html">ADD TO CART</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-6 mg-rp-main">
+                    <div class="mg-related-product-box">
+                        <div class="row">
+                            <div class="col-lg-5 col-md-5 col-sm-5">
+                                <div class="mg-related-product-image">
+                                    <a href="#"><img src="~/assets/images/gallery/related-product-img.jpg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7 col-sm-7">
+                                <div class="mg-related-product-info">
+                                    <span><a href="shop.html">TABLET</a></span>
+                                    <div><a href="single-product.html">APPLE ipad (9th Gen)</a></div>
+                                    <div class="mg-pricing">$20.03</div>
+                                    <a class="btn" href="cart.html">ADD TO CART</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--related products end here-->
+

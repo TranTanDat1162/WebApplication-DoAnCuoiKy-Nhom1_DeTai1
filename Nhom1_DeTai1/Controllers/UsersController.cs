@@ -21,7 +21,6 @@ namespace Nhom1_DeTai1.Controllers
         {
             _context = context;
         }
-
         // GET: Users
         public async Task<IActionResult> Index()
         {

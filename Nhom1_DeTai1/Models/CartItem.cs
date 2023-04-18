@@ -15,6 +15,7 @@
 
                 public CartItem()
                 {
+
                 }
 
                 public CartItem(Product product)

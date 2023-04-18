@@ -1604,6 +1604,15 @@ li.breadcrumb-item.active {
     border: 1px solid #ddd;
     font-size: 12px;
 }
+.mg-quanitity-option-section-1 button {
+    background: transparent;
+    border: 0px solid #ddd;
+}
+.mg-quanitity-option-section a.mg-cart-btn {
+    padding: 0 20px;
+    border: 1px solid #ddd;
+    font-size: 12px;
+}
 .mg-quanitity-option-section a.mg-shop-btn {
     background-color: #171717;
     color: #fff;
@@ -2590,6 +2599,8 @@ span.mg-views-text {
 }
 .mg-product-remove img {
     width: 24px;
+    padding: 0 20px;
+    border: 1px solid #ddd;
 }
 .mg-coupon-apply {
     margin-top: 20px;

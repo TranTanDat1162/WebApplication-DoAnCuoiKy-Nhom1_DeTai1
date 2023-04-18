@@ -1,4 +1,5 @@
-﻿using System.Security.Principal;
+﻿using System.Globalization;
+using System.Security.Principal;
 
 namespace Nhom1_DeTai1
 {
@@ -6,5 +7,6 @@ namespace Nhom1_DeTai1
     {
         public static bool MyGlobalVariable { get; set; }
         public static IPrincipal CurrentPrinciple { get; set; }
+        public static CultureInfo cul = CultureInfo.GetCultureInfo("vi-VN");
     }
 }

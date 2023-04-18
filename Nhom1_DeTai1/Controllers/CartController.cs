@@ -6,6 +6,7 @@ using Nhom1_DeTai1.Data;
 using Microsoft.AspNetCore.Authorization;
 using System.Data;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using System.Dynamic;
 
 namespace Nhom1_DeTai1.Controllers
 {
@@ -18,7 +19,6 @@ namespace Nhom1_DeTai1.Controllers
         {
             _context = context;
         }
-
         public IActionResult Index()
         {
             List<CartItem> cart = HttpContext.Session.GetJson<List<CartItem>>("Cart") ?? new List<CartItem>();
@@ -34,7 +34,10 @@ namespace Nhom1_DeTai1.Controllers
 
         public IActionResult Checkout()
         {
-            return View();
+            dynamic Ck_out = new ExpandoObject();
+            Ck_out.User = _context.User;
+            Ck_out.CartItem = _context.CartItem;
+            return View(Ck_out);
         }
 
         public IActionResult SaveOrder(IFormCollection fc)
@@ -119,22 +122,6 @@ namespace Nhom1_DeTai1.Controllers
 
             return RedirectToAction("Index");
         }
-        public async Task<IActionResult> UpdateQuan(int id, int val_update)
-        {
-            Product product = await _context.Product.FindAsync(id);
-
-            List<CartItem> cart = HttpContext.Session.GetJson<List<CartItem>>("Cart") ?? new List<CartItem>();
-
-            CartItem cartItem = cart.Where(c => c.ProductId == id).FirstOrDefault();
-
-                cartItem.Quantity += val_update;
-
-            HttpContext.Session.SetJson("Cart", cart);
-
-            TempData["Success"] = "The product has been added!";
-
-            return RedirectToAction("Index");
-        }
         public async Task<IActionResult> Remove(int id)
         {
             List<CartItem> cart = HttpContext.Session.GetJson<List<CartItem>>("Cart");
@@ -154,7 +141,6 @@ namespace Nhom1_DeTai1.Controllers
 
             return RedirectToAction("Index");
         }
-
         public IActionResult Clear()
         {
             HttpContext.Session.Remove("Cart");

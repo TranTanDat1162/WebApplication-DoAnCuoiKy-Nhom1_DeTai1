@@ -1,1363 +1,1383 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom1_DeTai1.bundle.scp.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom1_DeTai1.bundle.scp.css",
       "PackagePath": "staticwebassets\\Nhom1_DeTai1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\css\\styles.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\css\\styles.css",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\demo\\material-icons.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\demo\\material-icons.png",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\demo\\material-icons.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\bootstrap.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\bootstrap.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\bootstrap.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\cc-amex.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\cc-amex.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\cc-amex.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\cc-mastercard.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\cc-mastercard.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\cc-mastercard.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\cc-visa.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\cc-visa.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\cc-visa.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\chartjs.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\chartjs.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\chartjs.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\github.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\github.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\github.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\litepicker.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\litepicker.png",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\litepicker.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\material-design.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\material-design.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\material-design.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\prism.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\brands\\prism.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\brands\\prism.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\favicon.ico",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\alerts.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\alerts.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\alerts.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\background.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\background.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\background.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\badges.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\badges.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\badges.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\borders.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\borders.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\borders.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\buttons.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\buttons.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\buttons.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\cards.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\cards.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\cards.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\charts.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\charts.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\charts.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\checks-and-radios.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\checks-and-radios.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\checks-and-radios.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\chips.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\chips.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\chips.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\code-blocks.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\code-blocks.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\code-blocks.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\data-tables.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\data-tables.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\data-tables.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\datepicker.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\datepicker.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\datepicker.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\dropdowns.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\dropdowns.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\dropdowns.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\icon-buttons.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\icon-buttons.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\icon-buttons.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\icons.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\icons.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\icons.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\input-groups.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\input-groups.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\input-groups.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\inputs.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\inputs.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\inputs.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\modals.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\modals.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\modals.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\navs.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\navs.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\navs.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\progress.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\progress.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\progress.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\range.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\range.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\range.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\ripples.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\ripples.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\ripples.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\select.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\select.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\select.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\shadows.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\shadows.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\shadows.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\spinners.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\spinners.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\spinners.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\tables.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\tables.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\tables.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\text.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\text.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\text.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\tooltips.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\tooltips.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\tooltips.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\transforms.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\transforms.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\transforms.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\typography.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\icons\\typography.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\icons\\typography.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\cloud.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\cloud.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\cloud.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\create.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\create.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\create.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-400.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-400.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-400.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-401.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-401.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-401.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-403.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-403.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-403.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-404.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-404.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-404.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-429.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-429.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-429.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-500.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-500.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-500.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-503.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-503.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-503.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-504.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\error-504.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\error-504.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\security.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\illustrations\\security.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\illustrations\\security.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\patterns\\doubs.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\patterns\\doubs.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\patterns\\doubs.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\patterns\\waihou.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\img\\patterns\\waihou.svg",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\img\\patterns\\waihou.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\chart-defaults.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\chart-defaults.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\chart-defaults.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-area-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-area-smooth-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-area-smooth-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-area-smooth-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-grouped-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-grouped-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-grouped-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-grouped-horizontal-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-grouped-horizontal-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-grouped-horizontal-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-horizontal-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-horizontal-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-bar-horizontal-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-doughnut-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-doughnut-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-doughnut-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-line-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-line-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-line-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-line-smooth-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-line-smooth-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-line-smooth-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-pie-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-area-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-area-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-area-light-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-area-light-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-area-light-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-bar-grouped-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-bar-grouped-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-bar-grouped-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-bar-horizontal-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-bar-horizontal-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\charts\\demos\\dashboard-chart-bar-horizontal-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\datatables\\datatables-simple-demo.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\datatables\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\datatables\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\litepicker.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\litepicker.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\litepicker.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\material.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\material.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\material.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\prism.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\prism.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\prism.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\scripts.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\scripts.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\widgets\\checklist.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\admin-assets\\assets\\js\\widgets\\checklist.js",
       "PackagePath": "staticwebassets\\admin-assets\\assets\\js\\widgets\\checklist.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\css\\mg-menu.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\css\\mg-menu.css",
       "PackagePath": "staticwebassets\\assets\\css\\mg-menu.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\css\\responsive.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\css\\responsive.css",
       "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Bold.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Bold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-ExtraBold.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-ExtraLight.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-ExtraLight.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Light.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Light.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Medium.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Medium.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Regular.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Regular.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-SemiBold.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-SemiBold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Thin.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\fonts\\Sora-Thin.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Sora-Thin.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\bg-img.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\bg-img.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\bg-img.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\cf-bg-img.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\cf-bg-img.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\cf-bg-img.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\cf-bg-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\cf-bg-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\cf-bg-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\common-pages-header.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\common-pages-header.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\common-pages-header.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\home3-banner.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\home3-banner.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\home3-banner.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-banner.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-banner.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\mg-banner.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-home2-banner.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-home2-banner.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\mg-home2-banner.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-home2-banner2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-home2-banner2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\mg-home2-banner2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-small-slider.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\mg-small-slider.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\mg-small-slider.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\page-header-image.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\page-header-image2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\page-header-image3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\page-header-image4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\page-header-image5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\page-header-image6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image7.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\page-header-image7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\page-header-image7.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\small-banner1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\banner\\small-banner1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\small-banner1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\about-image.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\about-image.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\about-image.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\about-small-image.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\about-small-image.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\about-small-image.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\about-small-image2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\about-small-image2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\about-small-image2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\cart-product-thumb.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\cart-product-thumb.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\cart-product-thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\client-img.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\client-img.png",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\client-img.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\download.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\download.png",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\download.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home2-social-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home2-social-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home2-social-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home2-social-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home2-social-img5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home2-social-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-list-product1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-list-product1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-list-product1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-list-product2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-list-product2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-list-product2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-list-product3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-list-product3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-list-product3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-social-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-social-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-social-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-social-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-social-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\home3-social-img6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\home3-social-img6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\related-product-img.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\related-product-img.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\related-product-img.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\reviewer-img.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\reviewer-img.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\reviewer-img.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\small-thumb-1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\small-thumb-2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\small-thumb-3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\small-thumb-4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\small-thumb-5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\small-thumb-6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\small-thumb-6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\social-thumbs-1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\social-thumbs-2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\social-thumbs-3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\social-thumbs-4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\social-thumbs-5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\social-thumbs-6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\social-thumbs-6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\video-bg-image.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\gallery\\video-bg-image.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\video-bg-image.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Down-arrow.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Down-arrow.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Down-arrow.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-feather-search-dark.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-feather-search-dark.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Icon-feather-search-dark.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-feather-search.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-feather-search.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Icon-feather-search.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-feather-shopping-bag.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-feather-shopping-bag.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Icon-feather-shopping-bag.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-ionic-ios-timer.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-ionic-ios-timer.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Icon-ionic-ios-timer.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-material-compare-arrows.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-material-compare-arrows.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Icon-material-compare-arrows.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-material-payment.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-material-payment.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Icon-material-payment.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-material-remove-red-eye.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Icon-material-remove-red-eye.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Icon-material-remove-red-eye.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Thankyou-icon.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Thankyou-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Thankyou-icon.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Up-arrow.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\Up-arrow.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\Up-arrow.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\address-icon.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\address-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\address-icon.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\cart-product-remove.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\cart-product-remove.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\cart-product-remove.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\cart.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\cart.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\cart.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\circle-wishlist.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\circle-wishlist.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\circle-wishlist.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\comma.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\comma.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\comma.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\delivery-truck.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\delivery-truck.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\delivery-truck.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\fb.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\fb.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\fb.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\grid-view-light.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\grid-view-light.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\grid-view-light.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\grid-view.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\grid-view.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\grid-view.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\headphones.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\headphones.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\headphones.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\heart-white.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\heart-white.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\heart-white.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\heart.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\heart.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\heart.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\home2-compare.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\home2-compare.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\home2-compare.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\home2-quick-view.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\home2-quick-view.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\home2-quick-view.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\home2-wishlist-circle.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\home2-wishlist-circle.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\home2-wishlist-circle.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\insta.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\insta.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\insta.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\linkedin.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\linkedin.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\linkedin.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\list-view-dark.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\list-view-dark.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\list-view-dark.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\list-view.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\list-view.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\list-view.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\order-icon.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\order-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\order-icon.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\pen-icon.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\pen-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\pen-icon.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\profile-icon.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\profile-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\profile-icon.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\rating-star.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\rating-star.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\rating-star.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\search-dark.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\search-dark.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\search-dark.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\search-white.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\search-white.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\search-white.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\twitter.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\twitter.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\twitter.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\video-play.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\video-play.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\video-play.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\wishlist-icon.svg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\icons\\wishlist-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\wishlist-icon.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img7.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img7.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img8.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\list-view\\list-view-img8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\list-view\\list-view-img8.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\home2-overlay-img.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\home2-overlay-img.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\home2-overlay-img.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-home3-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-home3-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-home3-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-home3-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-home3-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-home3-img6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-home3-img6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-img.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\overlay\\mg-overlay-img6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\overlay\\mg-overlay-img6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\picture\\Cuong.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\picture\\Cuong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\picture\\Dat.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\picture\\Dat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\picture\\Khoa.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\picture\\Khoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\picture\\Nghia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\picture\\Nghia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\picture\\Trieu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\picture\\Trieu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider-thumb1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider-thumb2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider-thumb3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider-thumb4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider-thumb4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\product-slider\\product-slider4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-slider\\product-slider4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AirPods2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AirPods2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\AirPods2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AirPods3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AirPods3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\AirPods3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AirPodsPro2022.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AirPodsPro2022.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\AirPodsPro2022.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AppleWatchSE2022.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AppleWatchSE2022.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\AppleWatchSE2022.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AppleWatchSeries8.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AppleWatchSeries8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\AppleWatchSeries8.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AppleWatchUltra.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\AppleWatchUltra.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\AppleWatchUltra.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\MacbookAirM1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\MacbookAirM1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\MacbookAirM1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\MacbookAirM2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\MacbookAirM2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\MacbookAirM2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\MacbookPro2021.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\MacbookPro2021.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\MacbookPro2021.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\NokiaC30.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\NokiaC30.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\NokiaC30.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\NokiaG11.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\NokiaG11.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\NokiaG11.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SDPMagsafe.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SDPMagsafe.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\SDPMagsafe.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SDPPisen.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SDPPisen.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\SDPPisen.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SDPSamsung.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SDPSamsung.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\SDPSamsung.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SacMini20W.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SacMini20W.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\SacMini20W.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SacSS15W.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SacSS15W.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\SacSS15W.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SacSS25W.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\SacSS25W.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\SacSS25W.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\ZFlip4.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\ZFlip4.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\ZFlip4.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\ZFold4.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\ZFold4.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\ZFold4.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a16k.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a16k.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\a16k.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a17k.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a17k.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\a17k.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a55.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a55.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\a55.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a57.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a57.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\a57.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a74.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\a74.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\a74.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\buds2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\buds2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\buds2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\bugslive.jpeg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\bugslive.jpeg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\bugslive.jpeg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\encobuds.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\encobuds.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\encobuds.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\galaxywatch5pro.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\galaxywatch5pro.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\galaxywatch5pro.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-list-product-img1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-list-product-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-list-product-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-list-product-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-list-product-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-list-product-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-list-product-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-list-product-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-list-product-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home2-product-img6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home2-product-img6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img7.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img7.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img8.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\home3-product-img8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\home3-product-img8.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone11.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone11.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone11pro.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone11pro.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone11pro.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone11promax.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone11promax.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone11promax.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone12.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone12.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone12pro.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone12pro.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone12pro.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone12promax.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone12promax.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone12promax.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone13.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone13.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone13.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone13pro.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone13pro.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone13pro.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone13promax.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone13promax.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone13promax.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone14.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone14.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone14pro.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone14pro.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone14pro.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone14promax.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\iphone14promax.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\iphone14promax.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokia105ds.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokia105ds.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\nokia105ds.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokia110ds.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokia110ds.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\nokia110ds.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokia5710.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokia5710.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\nokia5710.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokiac01plus.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokiac01plus.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\nokiac01plus.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokiac20.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\nokiac20.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\nokiac20.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note10s.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note10s.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\note10s.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note11.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\note11.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note11pro.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note11pro.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\note11pro.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note12.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\note12.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note12pro.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\note12pro.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\note12pro.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-1.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-10.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-10.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-11.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-11.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-12.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-12.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-13.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-13.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-13.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-14.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-14.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-15.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-15.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-16.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-16.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-17.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-17.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-17.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-4.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-6.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-7.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-8.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-9.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\product-9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\product-9.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\redmi10a.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\redmi10a.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\redmi10a.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\redmi10c.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\redmi10c.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\redmi10c.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\redmi9a.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\redmi9a.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\redmi9a.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s21.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\s21.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s22.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s22.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\s22.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s22ultra.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s22ultra.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\s22ultra.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s23.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s23.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\s23.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s23ultra.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\s23ultra.png",
       "PackagePath": "staticwebassets\\assets\\images\\products\\s23ultra.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\samsungwatch5.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\samsungwatch5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\samsungwatch5.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\zfold2.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\zfold2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\zfold2.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\zfold3.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\products\\zfold3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\products\\zfold3.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\team-and-testimonial\\team3.png",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\team-and-testimonial\\team3.png",
       "PackagePath": "staticwebassets\\assets\\images\\team-and-testimonial\\team3.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\team-and-testimonial\\testimonial-img.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\images\\team-and-testimonial\\testimonial-img.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team-and-testimonial\\testimonial-img.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\about-us.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\about-us.js",
       "PackagePath": "staticwebassets\\assets\\js\\about-us.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\jquery-3.6.1.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\jquery-3.6.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.1.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\jquery.ui.touch-punch.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\jquery.ui.touch-punch.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.ui.touch-punch.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\jquery.validate.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\mg-common.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\mg-common.js",
       "PackagePath": "staticwebassets\\assets\\js\\mg-common.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\mg-menu.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\mg-menu.js",
       "PackagePath": "staticwebassets\\assets\\js\\mg-menu.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\mg-send-email.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\mg-send-email.js",
       "PackagePath": "staticwebassets\\assets\\js\\mg-send-email.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\popper.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\shop.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\shop.js",
       "PackagePath": "staticwebassets\\assets\\js\\shop.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\single-product.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\js\\single-product.js",
       "PackagePath": "staticwebassets\\assets\\js\\single-product.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\Magnific-Popup-master\\dist\\magnific-popup.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\Magnific-Popup-master\\dist\\magnific-popup.css",
       "PackagePath": "staticwebassets\\assets\\libs\\Magnific-Popup-master\\dist\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\css\\all.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\css\\all.min.css",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-v4compatibility.ttf",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-v4compatibility.woff2",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\assets\\libs\\fontawesome-free-6.2.1-web\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_444444_256x240.html",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_444444_256x240.html",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_444444_256x240.html"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_555555_256x240.html",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_555555_256x240.html",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_555555_256x240.html"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_777620_256x240.html",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_777620_256x240.html",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_777620_256x240.html"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_777777_256x240.html",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_777777_256x240.html",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_777777_256x240.html"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_cc0000_256x240.html",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_cc0000_256x240.html",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_cc0000_256x240.html"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_ffffff_256x240.html",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_ffffff_256x240.html",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\images\\ui-icons_ffffff_256x240.html"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\jquery-ui.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\jquery-ui.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\jquery-ui-1.13.2.custom\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-1.13.2.custom\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\slick-1.8.1\\slick\\slick.css",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\slick-1.8.1\\slick\\slick.css",
       "PackagePath": "staticwebassets\\assets\\libs\\slick-1.8.1\\slick\\slick.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\Nhom1_Detai1\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\slick-1.8.1\\slick\\slick.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\Nhom1_DeTai1_new2\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\wwwroot\\assets\\libs\\slick-1.8.1\\slick\\slick.min.js",
       "PackagePath": "staticwebassets\\assets\\libs\\slick-1.8.1\\slick\\slick.min.js"
     },
     {

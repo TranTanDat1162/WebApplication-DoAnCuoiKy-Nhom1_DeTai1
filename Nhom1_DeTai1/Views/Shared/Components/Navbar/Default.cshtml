@@ -1,5 +1,6 @@
 ﻿@using System.Security.Claims;
 @*@model Nhom1_DeTai1.Models.ViewModels.SmallCartViewModel*@
+@model dynamic;
 <div class="container">
     <div class="row gx-0 gx-md-2 align-items-center">
         <div class="col-md-3 col-lg-3 col-5">
@@ -30,33 +31,8 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="menu-item-has-children">
-                            <a href="javascript:void(0);">PAGES <i class="fa-solid fa-caret-down"></i></a>
-                            <div class="mg-sub-menu-outer">
-                                <div class="menu-subs">
-                                    <ul>
-                                        <li><a href="shop.html">Collection</a></li>
-                                        <li><a href="single-product.html">Product</a></li>
-                                        <li><a href="cart.html">Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
-                                        <li><a href="thank-you.html">Thank you</a></li>
-                                        <li><a href="profile.html">Profile</a></li>
-                                        <li><a href="my-orders.html">My orders</a></li>
-                                        <li><a href="wishlist.html">Wishlist</a></li>
-                                        <li><a href="blogs.html">Blog</a></li>
-                                        <li><a href="single-blog.html">Single blog</a></li>
-                                        <li><a href="about-us.html">About us</a></li>
-                                        <li><a href="privacy-policy.html">Privacy policy</a></li>
-                                        <li><a href="my-account.html">My account</a></li>
-                                        <li><a href="/Account/Login">Login/Register</a></li>
-                                        <li><a href="faq.html">FAQs</a></li>
-                                        <li><a href="404.html">404 Page</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="menu-item"><a href="blogs.html">BLOG</a></li>
-                        <li class="menu-item"><a href="contact-us.html">CONTACT</a></li>
+                        <li class="menu-item"><a asp-action="Contact">CONTACT</a></li>
+                        <li class="menu-item"><a asp-action="AboutUs">ABOUT US</a></li>
                         @{
                             var Urname = "Guest";
                             var UrId = "404";
@@ -125,7 +101,7 @@
                             </li>
                             <li>
                                 <a href="/Cart">
-                                    <img src="~/assets/images/icons/Icon-feather-shopping-bag.svg" alt=""><span class="mg-header-icon-counter">2</span>
+                                    <img src="~/assets/images/icons/Icon-feather-shopping-bag.svg" alt="">
                                 </a>
                             </li>
                             <li class="mg-profile-icon">

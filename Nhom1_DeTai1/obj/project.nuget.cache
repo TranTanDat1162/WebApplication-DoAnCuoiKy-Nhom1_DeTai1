@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uv7r5Pxdsc5cFurLjipWA8vljG5g/7l3lk58nRmqZn1v1f3L7+atr35forO/D0SLLauTpGETq4zcCVSM7WRQ3A==",
+  "dgSpecHash": "Elj+zJqcllOBYPXKX8pd3xP0bWdrwxzRYbwSnWSiaGQ8LLjETYANZ8uDNn8HBYUVqLkOVZH5TfzVHZd9DR+o+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Predator\\Desktop\\Nhom1_DeTai1\\Nhom1_DeTai1.csproj",
+  "projectFilePath": "C:\\Users\\Predator\\Documents\\GitHub\\WebApplication-DoAnCuoiKy-Nhom1_DeTai1\\Nhom1_DeTai1\\Nhom1_DeTai1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Predator\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Predator\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

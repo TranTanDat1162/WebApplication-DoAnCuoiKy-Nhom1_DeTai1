@@ -9,10 +9,10 @@
         <form asp-controller="Products" asp-action="ProductByCategory" class="d-flex">
             <div class="mg-search-bar-dropdwon">
                 <select name="catid" class="form-select mg-font-style">
-                    <option value="0" selected>Category</option>
+                    <option value="0"  style="display: none" selected>Category</option>
                     @foreach (var item in Model)
                     {
-                        <option value="@item.CategoryId" selected>@item.CategoryName</option>
+                        <option value="@item.CategoryId">@item.CategoryName</option>
                     }
                 </select>
             </div>

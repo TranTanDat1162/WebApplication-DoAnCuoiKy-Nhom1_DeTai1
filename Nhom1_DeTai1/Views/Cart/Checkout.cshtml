@@ -13,7 +13,7 @@
                             <h3>Checkout</h3>
                         </div>
                         <div class="mg-breadcrumb">
-                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                            <nav style="--bs-breadcrumb-divider:'>';" aria-label="breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a class="text-decoration-none" href="index.html">Home</a></li>
                                     <li class="breadcrumb-item active">Checkout</li>
@@ -45,27 +45,28 @@
                                         <div class="mg-co-form-heading">
                                             <h5>Billing Details</h5>
                                         </div>
-                                        <form method="post">
-                                        <div class="mg-form-main">
-                                            <div class="row">
-                                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                                    <div class="mg-form-input-field">
-                                                        <input type="text" name="CustomerFirstName" placeholder="First Name">
-                                                    </div>
+                                        @using (Html.BeginForm("SaveOrder", "Cart", FormMethod.Post))
+                                        {
+                                            <div class="mg-form-main">
+                                        <div class="row">
+                                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                                <div class="mg-form-input-field">
+                                                    <input type="text" name="CustomerFirstName" placeholder="First Name">
                                                 </div>
-                                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                                    <div class="mg-form-input-field">
-                                                        <input type="text" name="CustomerLastName" placeholder="Last Name">
-                                                    </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                                <div class="mg-form-input-field">
+                                                    <input type="text" name="CustomerLastName" placeholder="Last Name">
                                                 </div>
-                                                <div class="col-lg-12 col-md-12 col-sm-12">
-                                                    <div class="mg-form-input-field">
-                                                        <input type="text" name="CustomerAddress" placeholder="Address">
-                                                    </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                                <div class="mg-form-input-field">
+                                                    <input type="text" name="CustomerAddress" placeholder="Address">
                                                 </div>
                                             </div>
                                         </div>
-                                        </form>
+                                    </div>
+                                        }
                                     </div>
                                     <div class="mg-co-check">
                                         <div class="form-check">
